@@ -7,6 +7,8 @@ Feature: The application should be running
     Then I should see the results
 
 
+
+
   @regression @test2
   Scenario: another search
     Given I am on the home page
